@@ -22,7 +22,7 @@ public class GameOfLife extends JFrame {
 		super("Lines Drawing Demo");
 
 		myEngine = new Engine(500,250);		
-		Scenarii.prepareRandomGrid(myEngine,2,0);
+		Scenarii.prepareRandomGrid(myEngine,4,0);
 		
 		setUndecorated(true);
 
