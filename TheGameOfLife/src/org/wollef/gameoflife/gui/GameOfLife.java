@@ -14,6 +14,7 @@ import org.wollef.gameoflife.rendering.Renderer;
 public class GameOfLife extends JFrame {
 	private static final long serialVersionUID = -983890039611549480L;
 	
+	// both the engine and renderer collaborates for final result
 	Engine myEngine;
 	Renderer myRenderer;
 
