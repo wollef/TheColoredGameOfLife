@@ -1,7 +1,7 @@
 package org.wollef.gameoflife.library;
 
 public class Patterns {
-    // With a new comment 2
+    // With a new comment 3
 	
 	static int[][] Copperhead = new int[][] { 
 		{ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }, 
