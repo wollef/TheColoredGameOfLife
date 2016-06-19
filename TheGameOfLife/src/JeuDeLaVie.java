@@ -1,7 +1,9 @@
 import java.util.Random;
 
 public class JeuDeLaVie {
-
+    
+	// the original text version !!!
+	
 	public static void affichelagrille(int [][] grille) {
 
 		 String resultat = "\n_________________________________________________\n";
