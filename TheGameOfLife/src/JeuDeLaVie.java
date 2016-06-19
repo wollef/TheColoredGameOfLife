@@ -3,6 +3,7 @@ import java.util.Random;
 public class JeuDeLaVie {
     
 	// the original text version !!!
+	// ASCII for ever
 	
 	public static void affichelagrille(int [][] grille) {
 
